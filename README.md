@@ -1,2 +1,2 @@
-# Voice-To-Text-Converter
+# Text-To-Voice-Converter
 we use html ,css and js
